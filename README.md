@@ -4,9 +4,9 @@ Hi everyone, my name is Cheangoun Krouch and I am an avid Data analyst/scientist
 
 
 # My social media
-GitHub: https://github.com/KCHEA
-Email: krouchcheangoun@gmail.com
-LinkedIn: https://www.linkedin.com/in/cheangoun-krouch-0bb73b268/
+GitHub: https://github.com/KCHEA  
+Email: krouchcheangoun@gmail.com  
+LinkedIn: https://www.linkedin.com/in/cheangoun-krouch-0bb73b268/  
 
 
 # Table Of Contents
